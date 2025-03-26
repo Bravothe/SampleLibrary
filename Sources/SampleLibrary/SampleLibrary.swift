@@ -1,5 +1,5 @@
 public struct SampleLibrary {
-   var text = "Hello i am Allan"
+   var text = "Hello i am Allan yyyy"
     
     public init(){
         
