@@ -1,6 +1,7 @@
 public struct SampleLibrary {
-    public private(set) var text = "Hello, World!"
-
-    public init() {
+   var text = "Hello i am Allan"
+    
+    public func HelloToYou() -> String{
+        return "Hello to You"
     }
 }
