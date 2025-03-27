@@ -6,7 +6,7 @@ public protocol PopupPresentable {
 }
 
 public struct SampleLibrary {
-    var text = "Hello I am Allan Thembo Ndungu"
+    public var text = "Hello I am Allan Thembo Ndungu"
     
     public init() {}
     
