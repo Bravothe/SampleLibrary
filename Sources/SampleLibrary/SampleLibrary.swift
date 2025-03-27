@@ -6,6 +6,7 @@ public protocol PopupPresentable {
 }
 
 public struct SampleLibrary {
+    // Make 'text' public so it can be accessed from outside the package
     public var text = "Hello I am Allan Thembo Ndungu"
     
     public init() {}
